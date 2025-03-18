@@ -1,0 +1,7 @@
+plugin/
+pack/
+*-lock.json
+local.lua
+.env
+swap/
+shada/
